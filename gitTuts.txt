@@ -1,1 +1,2 @@
 hey! Welcome to the series of learning git & github
+I Hope you will like the series
